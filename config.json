@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "git.enabled": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "explorer.openEditors.visible": 0,
+    "editor.renderWhitespace": "all",
+    "editor.colorDecorators": false,
+    "editor.fontFamily": "Menlo",
+    "editor.minimap.renderCharacters": false,
+    "editor.selectionHighlight": false
+}
