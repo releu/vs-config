@@ -14,5 +14,6 @@
     "editor.colorDecorators": false,
     "editor.fontFamily": "Menlo",
     "editor.minimap.renderCharacters": false,
-    "editor.selectionHighlight": false
+    "editor.selectionHighlight": false,
+    "workbench.iconTheme": "vs-minimal"
 }
